@@ -163,7 +163,7 @@ ruby hello_world.rb
 If using python
 
 ```python3
-python3 hello_world.rb
+python3 hello_world.py
 ```
 
 Your terminal should now show the strings you have programmed. Congrats!!!
