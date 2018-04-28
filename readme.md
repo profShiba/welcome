@@ -142,7 +142,7 @@ puts "Machine learning is my hobby, and I one day want to live on Mars"
 ```
 
 python: unit_0/programming/hello_world.py
-```python
+```python3
 print("Hello, I'm Mr. James and I'm from Chicago and loves dogs")
 print("Machine learning is my hobby, and I one day want to live on Mars")
 ```
@@ -162,7 +162,7 @@ ruby hello_world.rb
 
 If using python
 
-```python
+```python3
 python3 hello_world.rb
 ```
 
@@ -176,7 +176,7 @@ The terminal will give you clues as to why your program isn't working. For this 
 
 ## Policies 
 
-- Life happens, if you are going to turn work in late I need an email 48 hours before the work is due asking for an extension.
+- Life happens, if you are going to turn work in late I need an email 48 hours before the work is due asking for an extension. 
 
 - Office hours are a real thing! Many students will need to take advantage of this during the year
 
