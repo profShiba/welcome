@@ -21,6 +21,10 @@ This is how you will get class notes and todos. Slack is basically taking all th
 
 our team name is ibcs2018
 
+### If you have questions:
+
+In slack, there is a channel called q&a. You can post and answer questions here. I will also check this channel everyday, giving help as needed.
+
 ## Download sublime text 3:
 
 This will be your IDE for the course. The terminal is where you will run your code.
