@@ -87,15 +87,19 @@ This means you will have to do work outside of class in order to pass the exams.
 ## Part One: Terminal Commands
 Create the following file structure in a root dir on your desktop called year_one_ibcs. Complete this task using the terminal. If you don't know what a terminal is our any terminal commands, no worries. That is the goal of this project!
 
-[learn terminal](https://www.learnenough.com/command-line-tutorial)
+[learn terminal 1](https://www.learnenough.com/command-line-tutorial)
+[learn terminal 2](http://www.cs.virginia.edu/diochnos/tips/terminal/basics.html)
 In order to create part one, you'll need to know how to:
 
-- navigate in the terminal
-- create folders
-- create files
-- remove folders/files
+- navigate in the terminal  		(cd)
+- create folders					(mkdir)
+- create files 						(touch)
+- remove folders/files      		(rm)
 - run a ruby and python program
 - what a file path is
+
+## Warning: With great power comes great responsibility
+Deleting files/folders in the terminal is a bad idea. Dont do anything in the terminal you are unsure about!!!
 
 ### Directories at the root level:
 Once you have learned enough terminal to be dangerous, make the following file structure:
